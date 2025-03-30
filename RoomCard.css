@@ -1,0 +1,25 @@
+.room-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    padding: 15px;
+    background: white;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .room-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .room-card h3 {
+    margin: 10px 0;
+  }
+  
+  .room-card .btn {
+    margin-top: 10px;
+  }
+  
